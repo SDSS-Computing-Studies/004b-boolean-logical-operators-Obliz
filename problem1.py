@@ -18,4 +18,12 @@ Enter a number: 48
 48 is not frue
 """
 
-#! python3
+#! python
+number=""
+n=3
+x = n/3
+if isinstance(x, (int):
+    input("Please enter a number")
+if number / 6 :
+    print (number="is frue")
+
